@@ -1,0 +1,6 @@
+Para la creación del proyecto es necesario:
+1 motor paso a paso
+1 sensor Rfid RC522
+1 arduino nano
+1 portapilas
+4 pilas AA
