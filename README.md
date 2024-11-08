@@ -1,9 +1,7 @@
 # Mecatronica
 
 ## Nombres:
-Benjamin Pardo V.
-Lucas viada
-Javier Aguilera
+Benjamin Pardo V, Lucas Viada, Javier Aguilera
 
 ## Descripcion
 
