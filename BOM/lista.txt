@@ -1,0 +1,7 @@
+Para la creación del proyecto es necesario:
+1 motor paso a paso
+1 sensor Rfid RC522
+1 arduino uno
+2 portapilas
+1 push button
+4 pilas AA
